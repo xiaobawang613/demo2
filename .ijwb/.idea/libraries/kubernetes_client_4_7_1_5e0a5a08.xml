@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kubernetes-client-4.7.1_5e0a5a08">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_wangyao/1e6a7aee4d655dafc4d7d048299fd5b3/execroot/org_onosproject_onos/external/k8s_client/kubernetes-client-4.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-math3-3.6.1_72012bd0">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_wangyao/1e6a7aee4d655dafc4d7d048299fd5b3/execroot/org_onosproject_onos/external/commons_math3/commons-math3-3.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

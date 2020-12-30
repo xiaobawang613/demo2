@@ -1,0 +1,23 @@
+COMPILE_DEPS = CORE_DEPS + JACKSON + METRICS + KRYO + CLI + REST + [
+    "@rrd4j//jar",
+    "//core/store/serializers:onos-core-serializers",
+    "//apps/cpman/api:onos-apps-cpman-api",
+    "//core/api:onos-api-native",
+    "//utils/misc:onlab-misc-native",
+]
+
+
+osgi_jar_with_tests(
+    suppress_checkstyle = True,
+    deps = CORE_DEPS,
+)
+
+java_binary(
+    name = "loadbalance",
+    srcs = ["src/main/java/org/onosproject/mcb/MultiControllersBalancing.java"],
+    main_class = "org.onosproject.mcb.MultiControllersBalancing",
+    deps = ["//apps/cpman/api:onos-apps-cpman-api","//core/api:onos-api-native","//utils/misc:onlab-misc-native",],
+
+)
+
+

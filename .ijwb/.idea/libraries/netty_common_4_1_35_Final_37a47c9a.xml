@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="netty-common-4.1.35.Final_37a47c9a">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_wangyao/1e6a7aee4d655dafc4d7d048299fd5b3/execroot/org_onosproject_onos/external/io_netty_netty_common/netty-common-4.1.35.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

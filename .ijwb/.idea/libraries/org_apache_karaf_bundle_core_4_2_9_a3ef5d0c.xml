@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.karaf.bundle.core-4.2.9_a3ef5d0c">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_wangyao/1e6a7aee4d655dafc4d7d048299fd5b3/execroot/org_onosproject_onos/external/org_apache_karaf_bundle_core/org.apache.karaf.bundle.core-4.2.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

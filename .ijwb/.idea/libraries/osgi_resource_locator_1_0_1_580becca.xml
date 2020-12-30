@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="osgi-resource-locator-1.0.1_580becca">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_wangyao/1e6a7aee4d655dafc4d7d048299fd5b3/execroot/org_onosproject_onos/external/hk2_osgi_resource_locator/osgi-resource-locator-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

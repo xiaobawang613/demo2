@@ -1,0 +1,65 @@
+package org.onosproject.net.topology;
+
+import org.onosproject.net.DeviceId;
+
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+public final class Constants {
+    private Constants() {
+    }
+    public static final Map<String, List<Double>> GEO_MAP = new HashMap<>() {
+        {
+            put("of:0000000000000001", Arrays.asList(36.167783,-86.778365));
+            put("of:0000000000000002", Arrays.asList(35.785510,-78.642669));
+            put("of:0000000000000003", Arrays.asList(41.884150,-87.632409));
+            put("of:0000000000000004", Arrays.asList(31.759165,-106.487494));
+            put("of:0000000000000005", Arrays.asList(39.740010,-104.992259));
+            put("of:0000000000000006", Arrays.asList(32.778155,-96.795404));
+            put("of:0000000000000007", Arrays.asList(38.254860,-85.766404 ));
+            put("of:0000000000000008", Arrays.asList(49.260440,-123.114034));
+            put("of:0000000000000009", Arrays.asList(38.890370,-77.031959));
+            put("of:000000000000000a", Arrays.asList(39.766910,-86.149964));
+            put("of:000000000000000b", Arrays.asList(40.438335,-79.997459));
+            put("of:000000000000000c", Arrays.asList(30.443335,-91.186994));
+            put("of:000000000000000d", Arrays.asList(35.084180,-106.648639));
+            put("of:000000000000000e", Arrays.asList(34.053490,-118.245319));
+            put("of:000000000000000f", Arrays.asList(33.748315,-84.391109));
+            put("of:0000000000000010", Arrays.asList(35.149680,-90.048929));
+            put("of:0000000000000011", Arrays.asList(30.331380,-81.655799));
+            put("of:0000000000000012", Arrays.asList(25.728985,-80.237419 ));
+            put("of:0000000000000013", Arrays.asList(39.102960,-94.583062));
+            put("of:0000000000000014", Arrays.asList(46.872780,-113.996234));
+            put("of:0000000000000015", Arrays.asList(39.952270,-75.162369));
+            put("of:0000000000000016", Arrays.asList(32.221553,-110.969754));
+            put("of:0000000000000017", Arrays.asList(42.885440,-78.878464));
+            put("of:0000000000000018", Arrays.asList(29.760450,-95.369784));
+            put("of:0000000000000019", Arrays.asList(42.358635,-71.056699));
+            put("of:000000000000001a", Arrays.asList(44.979035,-93.264929));
+            put("of:000000000000001b", Arrays.asList(40.714550,-74.007124));
+            put("of:000000000000001c", Arrays.asList(40.759505,-111.888229));
+            put("of:000000000000001d", Arrays.asList(41.504365,-81.690459));
+            put("of:000000000000001e", Arrays.asList(32.298690,-90.180489));
+            put("of:000000000000001f", Arrays.asList(45.511795,-122.675629));
+            put("of:0000000000000020", Arrays.asList(47.603560,-122.329439));
+            put("of:0000000000000021", Arrays.asList(39.051631,-77.483151));
+            put("of:0000000000000022", Arrays.asList(37.371612,-122.038258));
+        }
+    };
+    public static final Map<String, DeviceId> CONTROLLER_SWITCH_MAPPING = new HashMap<>(){
+        {
+            /*
+            put("127.0.0.1", DeviceId.deviceId("of:0000000000000013"));
+            put("onos-1",);
+            put("onos-1",);
+            put("onos-1",);
+            put("onos-1",);
+             */
+            put("172.20.0.6", DeviceId.deviceId("of:000000000000007"));
+            put("172.20.0.7", DeviceId.deviceId("of:000000000000008"));
+            put("172.20.0.8", DeviceId.deviceId("of:000000000000009"));
+        }
+    };
+}

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="joda-time-2.9.3_700dd726">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_wangyao/1e6a7aee4d655dafc4d7d048299fd5b3/execroot/org_onosproject_onos/external/joda_time/joda-time-2.9.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

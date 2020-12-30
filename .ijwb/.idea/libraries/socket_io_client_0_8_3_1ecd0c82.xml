@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="socket.io-client-0.8.3_1ecd0c82">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_wangyao/1e6a7aee4d655dafc4d7d048299fd5b3/execroot/org_onosproject_onos/external/io_socket_client/socket.io-client-0.8.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

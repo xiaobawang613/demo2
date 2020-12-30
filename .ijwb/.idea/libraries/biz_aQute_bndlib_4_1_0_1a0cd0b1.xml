@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="biz.aQute.bndlib-4.1.0_1a0cd0b1">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_wangyao/1e6a7aee4d655dafc4d7d048299fd5b3/execroot/org_onosproject_onos/external/bndlib/biz.aQute.bndlib-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

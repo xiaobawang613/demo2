@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sshd-core-1.7.0_1eaa455e">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_wangyao/1e6a7aee4d655dafc4d7d048299fd5b3/execroot/org_onosproject_onos/external/sshd_core/sshd-core-1.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.felix.scr.bnd-1.9.0_e0a1af46">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_wangyao/1e6a7aee4d655dafc4d7d048299fd5b3/execroot/org_onosproject_onos/external/org_apache_felix_scr_bnd/org.apache.felix.scr.bnd-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

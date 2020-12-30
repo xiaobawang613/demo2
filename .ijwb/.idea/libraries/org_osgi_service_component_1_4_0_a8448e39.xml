@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.osgi.service.component-1.4.0_a8448e39">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_wangyao/1e6a7aee4d655dafc4d7d048299fd5b3/execroot/org_onosproject_onos/external/org_osgi_service_component/org.osgi.service.component-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

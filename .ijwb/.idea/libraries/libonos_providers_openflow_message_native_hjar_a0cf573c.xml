@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libonos-providers-openflow-message-native-hjar_a0cf573c">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_wangyao/1e6a7aee4d655dafc4d7d048299fd5b3/execroot/org_onosproject_onos/bazel-out/darwin-fastbuild/bin/providers/openflow/message/libonos-providers-openflow-message-native-hjar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
